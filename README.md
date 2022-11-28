@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=1&pause=10000&color=58A6FF&center=true&vCenter=true&width=435&height=40&lines=Jianni+Cariaga" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=30&lines=Front-End+Web+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=30&lines=Front-End+Developer" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiannicariaga&theme=github_dark&hide=stars,contribs&card_width=400px&custom_title=Jianni's%20GitHub%20Stats" alt="Jianni's GitHub Stats" />
