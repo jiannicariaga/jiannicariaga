@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jiannicariaga&theme=github_dark&hide=stars,contribs&card_width=400px&custom_title=Jianni's%20GitHub%20Stats" alt="Jianni's GitHub Stats" />
 </div>
 
-## :speech_balloon: Hello, GitHub
+## :speech_balloon: Hello, GitHub!
 
 My name is Jianni, and I'm a web developer who loves all things tech. I graduated from California State University, Long Beach in 2020 with a bachelor's degree in computer engineering and recently graduated from the LearningFuze accelerated web development program. 
 
