@@ -8,13 +8,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jiannicariaga&theme=github_dark&hide=stars,contribs&card_width=400px&custom_title=Jianni's%20GitHub%20Stats" alt="Jianni's GitHub Stats" />
 </div>
 
-## :speech_balloon: Hello, GitHub!
+## :speech_balloon: Hello GitHub!
 
-My name is Jianni, and I'm a web developer who loves all things tech. I graduated from California State University, Long Beach in 2020 with a bachelor's degree in computer engineering and recently graduated from the LearningFuze accelerated web development program.
+My name is Jianni, and I'm a web developer who loves all things tech. I graduated from California State University, Long Beach in 2020 with a bachelor's degree in computer engineering and recently graduated from the LearningFuze accelerated web development program. I enjoy solving problems and learning new technologies to level up my skills and expand my toolbelt. My goal is to contribute to meaningful products or services from a software perspective where I can see my work come to life and positively impact the community.
 
-I find fulfillment when solving problems, developing relationships, and learning new technologies. My career goal is to contribute to meaningful products or services from a software perspective where I can see my work come to life and positively impact the community.
+- I'm currently building stretch features for [yEAT](https://github.com/jiannicariaga/yeat) 🧱
+- I'm currently practicing JavaScript algorithms and studying TypeScript 📚
+- Fun Fact: I'm a big fan of MMORPG video games (WoW, anyone?) 🕹️
+- You may contact me at [jiannicariaga@gmail.com](mailto:jiannicariaga@gmail.com) 📨
 
-## :pancakes: Stack
+## 🥞 Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,6 +28,16 @@ I find fulfillment when solving problems, developing relationships, and learning
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## :computer: Let's Connect
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🖥️ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiannicariaga/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiannicariaga@gmail.com)
