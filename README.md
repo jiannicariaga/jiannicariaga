@@ -12,7 +12,7 @@
 
 My name is Jianni, and I'm a web developer who loves all things tech. I graduated from California State University, Long Beach in 2020 with a bachelor's degree in computer engineering and recently graduated from the LearningFuze accelerated web development program.
 
-I find fulfillment when solving problems, learning new technologies, and developing relationships. My career goal is to contribute to meaningful products or services from a software perspective where I can see my work come to life and positively impact the community.
+I find fulfillment when solving problems, developing relationships, and learning new technologies. My career goal is to contribute to meaningful products or services from a software perspective where I can see my work come to life and positively impact the community.
 
 ## :pancakes: Stack
 
