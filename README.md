@@ -2,8 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=1&pause=10000&color=58A6FF&center=true&vCenter=true&width=435&height=40&lines=Jianni+Cariaga" alt="Typing SVG" />
   <br />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=25&lines=Software+Developer" alt="Typing SVG" />
-  <!--<br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=jiannicariaga&theme=github_dark&hide=stars,contribs&card_width=400px&custom_title=Jianni's%20GitHub%20Stats" alt="Jianni's GitHub Stats" />-->
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiannicariaga&theme=github_dark&hide=stars,contribs&card_width=400px&custom_title=Jianni's%20GitHub%20Stats" alt="Jianni's GitHub Stats" />
 </div>
 
 ## :speech_balloon: Hello, GitHub!
@@ -27,12 +27,14 @@ My name is Jianni, and I'm a software developer who loves all things tech. I gra
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## 🖥️ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiannicariaga/)
