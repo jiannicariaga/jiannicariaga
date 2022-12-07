@@ -38,4 +38,4 @@ My name is Jianni, and I'm a software developer who loves all things tech. I gra
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## 🖥️ Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiannicariaga/)
+[![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-Jianni%20Cariaga-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/jiannicariaga/)
