@@ -39,3 +39,8 @@ My name is Jianni, and I'm a software developer who loves all things tech. I gra
 
 ## 🖥️ Let's Connect
 [![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-Jianni%20Cariaga-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/jiannicariaga/)
+    
+<!-- [![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-Jianni%20Cariaga-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/jiannicariaga/) -->
+<a href="https://www.linkedin.com/in/jiannicariaga/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-Jianni%20Cariaga-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white">
+</a>
