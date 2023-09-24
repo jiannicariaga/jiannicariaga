@@ -11,7 +11,7 @@
 My name is Jianni, and I'm a software developer who loves all things tech. I graduated from California State University, Long Beach in 2020 with a bachelor's degree in computer engineering and the LearningFuze accelerated web development program in 2022. I enjoy solving problems and learning new technologies to level up my skills and expand my toolbelt. My goal is to contribute to meaningful products or services as a developer where I can see my work come to life and positively impact the community.
 
 - 📚 I'm currently practicing JavaScript algorithms and learning Next.js
-- 🕹️ Fun Fact: I'm a big fan of open world RPG video games (Exploring the starfield!)
+- 🕹️ Fun Fact: I'm a big fan of open world RPG video games (exploring the starfield!)
 - 📨 You may contact me at [jiannicariaga@gmail.com](mailto:jiannicariaga@gmail.com)
 
 ## 🥞 Stack
