@@ -8,10 +8,14 @@
 </div>
 
 ## :speech_balloon: Hello, GitHub!
-My name is Jianni, and I'm a software developer who loves all things tech. I graduated from California State University, Long Beach in 2020 with a bachelor's degree in computer engineering and the LearningFuze accelerated web development program in 2022. I enjoy solving problems and learning new technologies to level up my skills and expand my toolbelt. My goal is to contribute to meaningful products or services as a developer where I can see my work come to life and positively impact the community.
+Hi, I’m Jianni—a passionate software developer with a strong foundation in technology and a drive for continuous learning. I hold a bachelor's degree in Computer Engineering from California State University, Long Beach (Class of 2020) and completed the LearningFuze accelerated web development program in 2022.
 
-- 📚 I'm currently practicing JavaScript algorithms and learning Next.js
-- 🕹️ Fun Fact: I'm a big fan of open world RPG video games (exploring the starfield!)
+I thrive on solving complex problems and enjoy exploring new technologies to enhance my skill set and expand my development toolkit. My ultimate goal is to contribute to impactful products and services, where I can see my work come to life and make a meaningful difference in the community.
+
+Let’s build something great together!
+
+- 📚 I'm currently solving JavaScript challenges on CodeSignal
+- 🕹️ Fun Fact: I'm a big fan of open-world RPG video games
 - 📨 You may contact me at [jiannicariaga@gmail.com](mailto:jiannicariaga@gmail.com)
 
 ## 🥞 Stack
